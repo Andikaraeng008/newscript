@@ -6,7 +6,7 @@
 # File           : run.py                             #
 # Author         : DulLah                             #
 # Github         : https://github.com/Andikaraeng008           #
-# Facebook       : https://www.facebook.com/ANDI.KARAENG.ID.008    #
+# Facebook       : https://www.facebook.com/ANDI.KARAENG.ID.008a    #
 # Telegram       : https://t.me/unikers               #
 # Python version : 2.7                                #
 #######################################################
